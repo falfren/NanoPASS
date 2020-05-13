@@ -23,7 +23,7 @@ of sedimenting particles.
 
 ## Installation
 
-First download the current version `NanoPASS_0.1.15.tar.gz` from the
+First download the current version `NanoPASS_0.1.15.2.tar.gz` from the
 repository.
 
 You can install the released version of NanoPASS using the tar-file from
@@ -32,7 +32,7 @@ version of this
 repository.
 
 ``` r
-install.packages("/path/to/NanoPASS_0.1.15.tar.gz", repos = NULL, type = "source")
+install.packages("/path/to/NanoPASS_0.1.15.2.tar.gz", repos = NULL, type = "source")
 ```
 
 ## Example
